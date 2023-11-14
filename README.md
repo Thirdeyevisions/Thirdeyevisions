@@ -1,22 +1,22 @@
 # DevOps Engineer
 
-## Introduction
+## Introduction 
 Welcome to my DevOps Engineer resume! I am a highly motivated and skilled professional with a passion for automating and streamlining processes to enhance efficiency and productivity. With a strong background in both development and operations, I bring a unique blend of skills that contribute to successful project delivery and continuous improvement.
 
-## Skills
-- **Infrastructure as Code (IaC):** Terraform, CloudFormation
-- **Containerization:** Docker, Kubernetes
-- **CI/CD:** Jenkins, GitLab CI/CD, Travis CI
-- **Version Control:** Git, GitHub, Bitbucket
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Scripting:** Bash, Python
-- **Monitoring:** Prometheus, Grafana
-- **Configuration Management:** Ansible, Puppet
-- **Logging:** ELK Stack (Elasticsearch, Logstash, Kibana)
-- **Networking:** TCP/IP, DNS, Load Balancing
-- **Security:** DevSecOps, Security Best Practices
+## Skills 🛠️
+- **Infrastructure as Code (IaC):** Terraform, Ansible 
+- **Containerization:** Docker, Kubernetes , AKS 
+- **CI/CD:** Jenkins, Github actions, Azure Devops 
+- **Version Control:** Git, GitHub
+- **Cloud Platforms:** Microsoft Azure
+- **Scripting:** Bash, Python , YAML
+- **Build Tool:** Maven
+- **Source Code Management:** Git
+- **Code Quality Assurance:** Sonarqube , Sonarcloud
+- **Security Tools:** Sonarqube ,OWASP Dependency Check , TRIVY , Anchore
+- **Monitoring:** Grafana , Prometheus , Loki
 
-## Professional Experience
+## Experience
 ### [Company Name, City, State] - DevOps Engineer (Month Year - Present)
 - Implemented automated deployment processes, reducing deployment time by 30%.
 - Managed infrastructure on AWS, utilizing EC2, S3, RDS, and other services.
@@ -26,26 +26,23 @@ Welcome to my DevOps Engineer resume! I am a highly motivated and skilled profes
 - Administered and maintained Linux-based servers in a production environment.
 - Implemented backup and recovery strategies, ensuring data integrity and availability.
 
-## Education
-### Bachelor of Science in Computer Science
-[University Name], [City, State]
-[Graduation Year]
 
-## Certifications
-- AWS Certified DevOps Engineer - Professional
+## Certifications 🏆
+- Azure DevOps Engineer
 - Kubernetes Certified Administrator (CKA)
 
-## Projects
-### [Project Name]
+## Projects 🚧
+### [Tetris Game Application]
 - Description: Brief description of the project.
 - Technologies Used: List of technologies used in the project.
 - GitHub Repository: [Link to the GitHub repository]
 
 ### [Another Project]
 - ...
-
+- [DevOps Project](https://example.com/path/to/project_image.jpg)
+- [DevOps Project](https://example.com/path/to/project_image.jpg)
+- [DevOps Project](https://example.com/path/to/project_image.jpg)
 ## Contact Information
-- **Email:** your.email@example.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 - **GitHub:** [GitHub Profile](https://github.com/your-github-profile)
 
@@ -53,5 +50,3 @@ Welcome to my DevOps Engineer resume! I am a highly motivated and skilled profes
 Feel free to reach out for collaboration opportunities or to discuss anything related to DevOps, automation, and cloud technologies. I am always open to learning and contributing to exciting projects!
 
 ---
-
-**Note:** Replace the placeholder information with your actual details and customize the content as needed. Feel free to add or remove sections based on your preferences and the level of detail you want to provide.
