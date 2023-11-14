@@ -1,4 +1,4 @@
-# DevOps Engineer Resume
+# DevOps Engineer
 
 ## Introduction
 Welcome to my DevOps Engineer resume! I am a highly motivated and skilled professional with a passion for automating and streamlining processes to enhance efficiency and productivity. With a strong background in both development and operations, I bring a unique blend of skills that contribute to successful project delivery and continuous improvement.
