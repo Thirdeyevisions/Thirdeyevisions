@@ -38,8 +38,7 @@ Welcome to my DevOps Engineer resume! I am a highly motivated and skilled profes
 - GitHub Repository: [Link to the GitHub repository]
 
 ### [Another Project]
-- ...
-- [DevOps Project](https://example.com/path/to/project_image.jpg)
+- [Country Bank Application](https://github.com/Thirdeyevisions/CountryBankApplication.git_image.jpg)
 - [DevOps Project](https://example.com/path/to/project_image.jpg)
 - [DevOps Project](https://example.com/path/to/project_image.jpg)
 ## Contact Information
